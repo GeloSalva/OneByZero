@@ -8,7 +8,10 @@ This Repository for my Data Science Assignment for OneByZero
 However, I have created a short video demonstration of my Cardholder Spending Prediction App to showcase its functionality.
 
 
-https://github.com/GeloSalva/OneByZero/assets/125340333/a5dd19d8-6dd2-4880-850d-02452b53773d
+
+
+https://github.com/GeloSalva/OneByZero/assets/125340333/948c7203-364c-4277-87a1-667101865f65
+
 
 
 
